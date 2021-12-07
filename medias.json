@@ -1,0 +1,29 @@
+{
+    "photographers": [],
+    "images": [
+        {
+            "title": "Nature and sunrise",
+            "display": "https://www.w3schools.com/howto/img_nature.jpg",
+            "slider": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+            "thumbnail": "https://www.w3schools.com/howto/img_nature_wide.jpg"
+        },
+        {
+            "title": "Snow",
+            "display": "https://www.w3schools.com/howto/img_snow.jpg",
+            "slider": "https://www.w3schools.com/howto/img_snow_wide.jpg",
+            "thumbnail": "https://www.w3schools.com/howto/img_snow_wide.jpg"
+        },
+        {
+            "title": "Mountains and fjords",
+            "display": "https://www.w3schools.com/howto/img_mountains.jpg",
+            "slider": "https://www.w3schools.com/howto/img_mountains_wide.jpg",
+            "thumbnail": "https://www.w3schools.com/howto/img_mountains_wide.jpg"
+        },
+        {
+            "title": "Northern Lights",
+            "display": "https://www.w3schools.com/howto/img_lights.jpg",
+            "slider": "https://www.w3schools.com/howto/img_lights_wide.jpg",
+            "thumbnail": "https://www.w3schools.com/howto/img_lights_wide.jpg"
+        }
+    ]
+}
